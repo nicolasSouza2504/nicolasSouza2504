@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolasSouza2504
+- 👋 Hi, I’m Nicolas!
 - 👀 I’m interested in java, javascript, sql and other kinds of 
 technologies
 - 🌱 I’m currently learning about Docker, angular, kubernetes, and java libraries

@@ -22,8 +22,8 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for coding 
 
 Here are a few of my projects:
 
-- **[Payment ASAS](https://github.com/nicolasSouza2504/payment-asas)**: A comprehensive payment update webhook management system.
-- **[Courses](https://github.com/nicolasSouza2504/courses)**: A platform for managing and delivering online courses.
+- **[Payment ASAAS](https://github.com/nicolasSouza2504/payment-asaas-back)**: A comprehensive payment update webhook management system.
+- **[Courses](https://github.com/nicolasSouza2504/courses-project)**: A platform for managing and delivering online courses.
 - **[Freelancer App Front](https://github.com/nicolasSouza2504/freelancerapp-front)**: Frontend of a freelancer application using React Native.
 - **[Freelancer App Back](https://github.com/nicolasSouza2504/freelancerapp-back)**: Backend of a freelancer application built with Java and Quarkus.
 

@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for coding 
 
 - 👋 Hi, I’m Nicolas!
 - 👀 I’m interested in Java, JavaScript, SQL, and other technologies.
-- 🌱 I’m currently learning about Docker, Angular, Kubernetes, Node.js, and Java libraries.
+- 🌱 I’m currently learning about Docker, Angular, Kubernetes, Node.js, and Java Frameworks.
 - 📫 How to reach me? 
   - **Email**: nicolassouza2504@gmail.com
   - **Phone**: +55 47 98465-5980 (Brazil)

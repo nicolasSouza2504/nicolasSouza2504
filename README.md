@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for coding 
 - **Languages**: Java, JavaScript, TypeScript, SQL
 - **Frameworks**: React, React Native, Node.js, Express, Angular, Quarkus, Spring Umbrella 
 - **Databases**: MongoDB, MySQL, PostgresSQL
-- **Tools**: Git, Docker, Kubernetes, VS Code, Jetbrains 
+- **Tools**: Linux, Git, Docker, Kubernetes, VS Code, Jetbrains 
 
 ## 📂 Projects
 

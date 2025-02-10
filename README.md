@@ -33,7 +33,6 @@ Here are a few of my projects:
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Nicolas Souza](https://www.linkedin.com/in/nicolas-souza)
-- **Twitter**: [@nicolasSouza2504](https://twitter.com/nicolasSouza2504)
-
+- **LinkedIn**: [Nicolas Souza](https://www.linkedin.com/in/nicolas-souza-a7277b226/)
+  
 Thanks for visiting my profile, and happy coding! 🚀
